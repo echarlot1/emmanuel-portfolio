@@ -70,6 +70,6 @@ export const social = [
 	},
 	{
 		icon: <FiYoutube />,
-		href: 'https://www.instagram.com/manno.509/'
+		href: 'https://www.youtube.com/channel/UCrhGt_wqbFoXen-hD66176A'
 	}
 ];

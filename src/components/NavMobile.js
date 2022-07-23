@@ -43,6 +43,9 @@ const NavMobile = () => {
 				onClick={() => setIsOpen(true)}
 			>
 				<MenuAlt3Icon className='w-8 h-8' />
+				
+				
+				
 			</div>
 
 			{/* circle */}
@@ -81,8 +84,11 @@ const NavMobile = () => {
 							{item.name}
 						</a>
 					</li>
+					
 				))}
+				{<Socials />}
 			</motion.ul>
+			
 		</nav>
 	);
 };

@@ -15,7 +15,7 @@ export default function Projects() {
       <h1 className='mb-5' >Projects</h1>
       <div className='gap-12 columns-2 bg-gradient-to-l hover:bg-gradient-to-r ' >
         <button>
-          <a href='https://https://www.allseasontech.org' target="_blank" rel="noreferrer">
+          <a href='https://www.allseasontech.org' target="_blank" rel="noreferrer">
             <img src={Project1} alt="project1" className=' w-0.4  ' />
             
           </a>

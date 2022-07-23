@@ -22,7 +22,7 @@ const Header = () => {
 			<div className='container mx-auto h-full flex items-center justify-between'>
 				
 				<button className='btn btn-md bg-amber-600 hover:bg-red-900-hover transition-all' >
-				<a href='https://allseasonstech-blog.netlify.app/' rel="noreferrer" >
+				<a href='https://www.allseasontech.org' rel="noreferrer" >
 					Create your Blog
 				</a>
 			</button>
